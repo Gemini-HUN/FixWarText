@@ -1,4 +1,4 @@
 # FixWarText
-Fixes a bug where the game reaches the wrong text in space stage when npc empire attack the player
+Fixes a bug where the game display the wrong text in Space Stage when NPC empires attack the player.
 
 * bug reported by Breadguette from SPORE Modding Community Discord server
