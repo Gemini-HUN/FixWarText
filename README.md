@@ -1,5 +1,5 @@
 # FixWarText
-### Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/FixWarText?style=flat-square&color=d81b60&icon=github)
+## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/FixWarText?style=flat-square&color=d81b60&logo=github)
 
 * Fixes a bug where the game displays the wrong text in the Space Stage when NPC empires attack the player.
 
