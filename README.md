@@ -9,3 +9,5 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * This fix replaces the incorrect locale reference with the correct one, making the fix work for **all supported languages.**
 
 ### Bug reported by Breadguette from the SPORE Modding Community Discord server.
+
+Breadguette's screenshots after installed this mod.
