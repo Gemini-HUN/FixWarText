@@ -10,6 +10,6 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 ### Bug reported by Breadguette from the SPORE Modding Community Discord server.
 
 Breadguette's screenshots after installed this mod.
-Now your empire tell to you which empire attack your planet.
+**Now your empire tell to you which empire attack your planet.**
 <img width="1920" height="1080" alt="1000000769" src="https://github.com/user-attachments/assets/c7dff6e5-c6e0-4ea5-8dea-3abeb81a4d48" />
 <img width="139" height="186" alt="1000000770" src="https://github.com/user-attachments/assets/44dccb05-a39a-4234-810e-d2af69ea5985" />
