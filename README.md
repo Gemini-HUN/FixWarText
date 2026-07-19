@@ -7,7 +7,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * Fixes a bug where the game displays the wrong text in the Space Stage when NPC empires attack the player.
 * This fix replaces the incorrect locale reference with the correct one, making the fix work for **all supported languages.**
 
-### Bug reported by Breadguette from the SPORE Modding Community Discord server.
+### Bug reported by [@thebreadguette](https://github.com/thebreadguette) from the SPORE Modding Community Discord server.
 
 Breadguette's screenshots after installed this mod.
 **Now your empire tell to you which empire attack your planet.**
